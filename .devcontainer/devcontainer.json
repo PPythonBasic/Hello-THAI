@@ -5,7 +5,19 @@
 			"extensions": [
 				"ms-python.python",
 				"njpwerner.autodocstring",
-				"ms-python.black-formatter"
+				"ms-python.black-formatter",
+				"PKief.material-icon-theme"
+			]
+		},
+		"codespaces": {
+			"extensions": [
+				"ms-python.python",
+				"njpwerner.autodocstring",
+				"ms-python.black-formatter",
+				"PKief.material-icon-theme"
+			],
+			"openFiles": [
+				"README.md"
 			]
 		}
 	}
