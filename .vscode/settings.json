@@ -6,4 +6,7 @@
     "editor.mouseWheelZoom": true,
     "editor.formatOnSave": true,
     "files.autoSave": "off",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    }
 }
